@@ -10,14 +10,15 @@ I'm an Artificial Intelligence (AI) researcher and educator passionate about usi
 - 💬 **LLMs for Mental Health Support** – Exploring language models for therapeutic response generation, emotion detection, and conversational empathy.
 - 🔍 **Explainable AI (XAI)** – Enhancing transparency and trust using SHAP, attention mechanisms, and model interpretability techniques.
 
-
 🛠️ **Tech Stack**:
 Python · Scikit-learn · PyTorch · TensorFlow · Transformers · pandas · XGBoost · LightGBM · SQL · Power BI · Git
 
 📚 **Background**:
-- Over 6 years of teaching experience in Computer Science
+- Over 7 years of teaching experience in Computer Science
 - Active in AI research with publications and project supervision
 - Skilled in developing explainable and impactful solutions
 
+📬 **Contact Me**
+- eunicevick.dev@gmail.com
 
 🚀 **Always learning. Always building. Always contributing.**
